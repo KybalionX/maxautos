@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^probandoserver\.xyz$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.probandoserver\.xyz$
+RewriteRule ^admin$ "https\:\/\/api\.probandoserver\.xyz\/admin" [R=301,L]
+

@@ -1,0 +1,16 @@
+text=/home/problwzw/text
+test=/home/problwzw/test
+test.1=/home/problwzw/virtualenv/test
+CarsAPI-main=/home/problwzw/test/CarsAPI-main
+manage.py=/home/problwzw/test/manage.py
+maxautos=/home/problwzw/test/maxautos
+db.sqlite3=/home/problwzw/test/db.sqlite3
+media=/home/problwzw/test/media
+maxapp=/home/problwzw/test/maxapp
+static=/home/problwzw/test/static
+pki-validation=/home/problwzw/api.probandoserver.xyz/pki-validation
+media.1=/home/problwzw/api.probandoserver.xyz/media
+api.probandoserver.com=/home/problwzw/api.probandoserver.com
+static.1=/home/problwzw/api.probandoserver.xyz/static
+static.2=/home/problwzw/test/static
+api.probandoserver.xyz=/home/problwzw/test/api.probandoserver.xyz

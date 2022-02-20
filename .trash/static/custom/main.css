@@ -1,0 +1,31 @@
+button{
+    background-color: #00bc8c;
+    border: none;
+    color: #15283f;
+    border-radius: 0.25rem;
+    font-weight: 600;
+    padding: 4px 12px;
+    box-shadow: 0px 2px 4px #0000009c;
+    margin-left: 12px;
+    transition: background-color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+button:hover{
+    background-color: #0da57f;
+}
+
+#id_user_permissions_from, #id_user_permissions_to, #id_groups_to, #id_groups_from, #id_permissions_from, #id_permissions_to{
+    background-color : #343a40;
+}
+
+div.btn-group.float-right{
+    gap: 6px;
+}
+
+div.btn-group.float-right .btn.btn-sm{
+    border-radius: 4px;
+}
+
+.card-body button.btn.btn-primary.btn-block{
+    margin: 0px;
+}

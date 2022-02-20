@@ -1,0 +1,12 @@
+[{"version": "9.0.1", "name": "pip"}, {"version": "28.8.0", "name": "setuptools"}, {"version": "0.29.0", "name": "wheel"}]
+You are using pip version 9.0.1, however version 22.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+[{"name": "pip", "version": "9.0.1"}, {"name": "setuptools", "version": "28.8.0"}, {"name": "wheel", "version": "0.29.0"}]
+You are using pip version 9.0.1, however version 22.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+[{"version": "9.0.1", "name": "pip"}, {"version": "28.8.0", "name": "setuptools"}, {"version": "0.29.0", "name": "wheel"}]
+You are using pip version 9.0.1, however version 22.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+[{"name": "pip", "version": "9.0.1"}, {"name": "setuptools", "version": "28.8.0"}, {"name": "wheel", "version": "0.29.0"}]
+You are using pip version 9.0.1, however version 22.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
